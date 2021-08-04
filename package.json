@@ -1,0 +1,23 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch data/db.json --port 3004",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheeshap/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudheeshap/json-server/issues"
+  },
+  "homepage": "https://github.com/sudheeshap/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
