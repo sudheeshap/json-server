@@ -181,46 +181,6 @@
       ]
     },
     {
-      "id": "140225",
-      "name": "Grills",
-      "products": [
-        {
-          "id": "1627494",
-          "name": "Ribs",
-          "description": "Lorem ipsum dolor, sit",
-          "price": 83,
-          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Ribs_fstyqt.jpg"
-        },
-        {
-          "id": "1627487",
-          "name": "Chicken Kebab",
-          "description": "Lorem ipsum dolor, sit",
-          "price": 67,
-          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Chicken-Kebab_muls0c.jpg"
-        }
-      ]
-    },
-    {
-      "id": "140228",
-      "name": "Main Dishes",
-      "products": [
-        {
-          "id": "1627528",
-          "name": "Chicken Roll",
-          "description": "Lorem ipsum dolor, sit",
-          "price": 81,
-          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Chicken-Roll_xnel2r.jpg"
-        },
-        {
-          "id": "1627523",
-          "name": "Freekeh With Chicken",
-          "description": "Lorem ipsum dolor, sit",
-          "price": 67,
-          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Freekeh-With-Chicken_sl9lmf.jpg"
-        }
-      ]
-    },
-    {
       "id": "140227",
       "name": "Sea Food",
       "products": [
