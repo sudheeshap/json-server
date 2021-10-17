@@ -1,0 +1,265 @@
+{
+  "restaurants": [
+    {
+      "id": 620709,
+      "name": "L&G Pizzeria",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/lg-pizzeria_l83btw.jpg",
+      "slug": "lg-pizzeria",
+      "cuisines": "Pizza,Snacks ",
+      "rating": 4.5,
+      "delivery_in": "25 - 30 min",
+      "distance": "2 km",
+      "is_open": true,
+      "is_featured": true,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t4.ftcdn.net/jpg/02/30/96/69/240_F_230966912_NBFpX2V5Uvnw14EWaITYarAgDLK1MK5a.jpg"
+    },
+    {
+      "id": 627048,
+      "name": "Wadi Hadharmoot Restaurant",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/wadi-hadharmoot-restaurant_lyo1el.jpg",
+      "slug": "wadi-hadharmoot-restaurant",
+      "cuisines": "Arabic,Mandi",
+      "rating": 4.2,
+      "delivery_in": "20 - 45 min",
+      "distance": "3 km",
+      "is_open": true,
+      "is_featured": true,
+      "delivery_charge": 0,
+      "offer": "10% off",
+      "cover_photo": "https://t3.ftcdn.net/jpg/02/72/83/76/240_F_272837618_6qpf6VkgYCWbFYdqS2e8CENWWqfbameX.jpg"
+    },
+    {
+      "id": 22895,
+      "name": "Salt Water Restaurant",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/salt-water-restaurant_sqvgsv.jpg",
+      "slug": "salt-water-restaurant",
+      "cuisines": "Arabic,Healthy,Seafood",
+      "rating": 3.4,
+      "delivery_in": "20 - 45 min",
+      "distance": "2.5 km",
+      "is_open": true,
+      "is_featured": true,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t4.ftcdn.net/jpg/02/83/98/03/240_F_283980349_0VggtTJBYajfh7zR7ZZaEJKjhNSYONhF.jpg"
+    },
+    {
+      "id": 623154,
+      "name": "Shawarma Plus",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/shawarma-plus_qconvm.jpg",
+      "slug": "shawarma-plus",
+      "cuisines": "Shawarma & Doner,Sandwiches,International",
+      "rating": 4.6,
+      "delivery_in": "20 - 45 min",
+      "distance": "4.5 km",
+      "is_open": true,
+      "is_featured": true,
+      "delivery_charge": 0,
+      "offer": "20% off",
+      "cover_photo": "https://t3.ftcdn.net/jpg/00/80/20/36/240_F_80203627_NVVMMGck8yL0G3PchS0XmLsI4xx3YUQm.jpg"
+    },
+    {
+      "id": 625898,
+      "name": "T4 Tea",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/t4-tea_xdjokf.jpg",
+      "slug": "t4-tea",
+      "cuisines": "American,Fast Food,Sandwiches",
+      "rating": 4.3,
+      "delivery_in": "20 - 45 min",
+      "distance": "4.5 km",
+      "is_open": true,
+      "is_featured": true,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t3.ftcdn.net/jpg/02/59/99/08/240_F_259990876_jkctaxeaGLXLO6OyOUg5w1uGZEp5puFP.jpg"
+    },
+    {
+      "id": 613433,
+      "name": "Belly Bump Restaurant",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/belly-bump-restaurant_bxi0t4.jpg",
+      "slug": "belly-bump-restaurant",
+      "cuisines": "Seafood,Asian,Burgers",
+      "rating": 3.7,
+      "delivery_in": "20 - 30 min",
+      "distance": "2 km",
+      "is_open": true,
+      "is_featured": true,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t4.ftcdn.net/jpg/01/75/77/63/240_F_175776359_qNmjiABh5kKh74MuS4udR54ibgk6CNrt.jpg"
+    },
+    {
+      "id": 8990,
+      "name": "Healthy Little Secrets Cafe",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/healthy-little-secrets-cafe_xzm7ha.jpg",
+      "slug": "healthy-little-secrets-cafe",
+      "cuisines": "Healthy,Sandwiches,Cafe",
+      "rating": 4.2,
+      "delivery_in": "40 - 45 min",
+      "distance": "2 km",
+      "is_open": true,
+      "is_featured": false,
+      "delivery_charge": 6,
+      "offer": "",
+      "cover_photo": "https://t3.ftcdn.net/jpg/02/04/19/10/240_F_204191040_1U9eerl6t3Uxe7BDQC6TWEzDXA8PeTQV.jpg"
+    },
+    {
+      "id": 624505,
+      "name": "Royal Foods",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/royal-foods_oswv28.jpg",
+      "slug": "royal-foods",
+      "cuisines": "Chinese,Desserts,Indian",
+      "rating": 4.6,
+      "delivery_in": "30 - 40 min",
+      "distance": "3 km",
+      "is_open": true,
+      "is_featured": false,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t3.ftcdn.net/jpg/01/29/77/74/240_F_129777464_0qNCK13O07BAhVtJJYrKsDzxPlvUzlhq.jpg"
+    },
+    {
+      "id": 602746,
+      "name": "Mezbaan",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/mezbaan_tu00qd.jpg",
+      "slug": "mezbaan",
+      "cuisines": "Indian,Pakistani",
+      "rating": 4.3,
+      "delivery_in": "30 - 50 min",
+      "distance": "4.5 km",
+      "is_open": true,
+      "is_featured": false,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t4.ftcdn.net/jpg/01/79/54/15/240_F_179541526_EMI6Znq5tVKcAlPZrqKe9hWveRY8W5Va.jpg"
+    },
+    {
+      "id": 611737,
+      "name": "Tomato Pizzeria Restaurant And Cafe L.L.C",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/tomato-pizzeria-restaurant-and-cafe-llc_q6mnf9.jpg",
+      "slug": "tomato-pizzeria-restaurant-and-cafe-llc",
+      "cuisines": "Italian,Pizza,Beverages",
+      "rating": 4.4,
+      "delivery_in": "40 - 45 min",
+      "distance": "4 km",
+      "is_open": true,
+      "is_featured": false,
+      "delivery_charge": 0,
+      "offer": "",
+      "cover_photo": "https://t3.ftcdn.net/jpg/02/23/21/22/240_F_223212249_QNRXh00afvpCvG2glyqrQlhEOywNHjeX.jpg"
+    },
+    {
+      "id": 607346,
+      "name": "Taco Shrimpo",
+      "logo": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628149150/FooDelivery/logos/taco-shrimpo_vpjssb.jpg",
+      "slug": "taco-shrimpo",
+      "cuisines": "International,Shawarma & Doner,Mexican",
+      "rating": 4.6,
+      "delivery_in": "30 - 50 min",
+      "distance": "4 km",
+      "is_open": true,
+      "is_featured": false,
+      "delivery_charge": 6,
+      "offer": "",
+      "cover_photo": "https://t4.ftcdn.net/jpg/01/79/54/15/240_F_179541526_EMI6Znq5tVKcAlPZrqKe9hWveRY8W5Va.jpg"
+    }
+  ],
+  "restaurant_menus": [
+    {
+      "id": "140223",
+      "name": "Soup",
+      "products": [
+        {
+          "id": "1627457",
+          "name": "Seafood Soup",
+          "description": "Lorem ipsum dolor, sit",
+          "price": 40,
+          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Seafood-Soup_c1kn7u.jpg"
+        }
+      ]
+    },
+    {
+      "id": "140227",
+      "name": "Sea Food",
+      "products": [
+        {
+          "id": "1627513",
+          "name": "Grouper Awsal ",
+          "description": "Lorem ipsum dolor, sit",
+          "price": 90,
+          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Grouper-Awsal_ququvf.jpg"
+        },
+        {
+          "id": "1627507",
+          "name": "Chinese Hab Fish",
+          "description": "Nam libero tempore",
+          "price": 85,
+          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/Chinese-Hab-Fish_stkqd3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "140229",
+      "name": "Side Dishes",
+      "products": [
+        {
+          "id": "233069",
+          "name": "French Fries",
+          "description": "Et harum quidem rerum facilis",
+          "price": 0,
+          "photo_thumb": "https://res.cloudinary.com/duysw9vvg/image/upload/v1628163158/FooDelivery/products/French-Fries_uhvhbz.png"
+        }
+      ]
+    },
+    {
+      "id": "158932",
+      "name": "Desserts",
+      "products": [
+        {
+          "id": "1728712",
+          "name": "Blancmange ",
+          "description": "Et harum quidem",
+          "price": 28,
+          "photo_thumb": ""
+        }
+      ]
+    },
+    {
+      "id": "158934",
+      "name": "Juices",
+      "products": [
+        {
+          "id": "1729564",
+          "name": "Layers Juice Jug",
+          "description": "Et harum quidem",
+          "price": 44,
+          "photo_thumb": ""
+        }
+      ]
+    },
+    {
+      "id": "159026",
+      "name": "Beverages",
+      "products": [
+        {
+          "id": "1729581",
+          "name": "Mineral Water - Small",
+          "description": "Lorem ipsum consectetur dolor",
+          "photo_thumb": "",
+          "price": 3,
+          "calories": null
+        },
+        {
+          "id": "1729582",
+          "name": "Mineral Water - Large ",
+          "description": "Lorem ipsum dolor",
+          "photo_thumb": "",
+          "price": 8,
+          "calories": null
+        }
+      ]
+    }
+  ]
+}
